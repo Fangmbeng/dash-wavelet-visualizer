@@ -32,4 +32,4 @@ This project is a **Dash-based interactive application** that visualizes the **H
 
 ---
 
-💡 **Note:** The code still uses `dash_html_components`, which is deprecated. You may want to replace it with `dash.html` to ensure long-term compatibility. Let me know if you need any improvements! 🚀
+💡 **Note:** The code still uses `dash_html_components`, which is deprecated. You may want to replace it with `dash.html` to ensure long-term compatibility. Let me know if you have any improvements! 🚀
